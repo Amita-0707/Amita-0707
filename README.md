@@ -55,7 +55,8 @@ I am a results-driven developer focused on constructing secure, high-availabilit
 
 ## 📜 Professional Credentials & Certifications
 
-* ☁️ **AWS Academy Graduate:** AWS Academy Cloud Solutions Architect / Cloud Foundations
+* ☁️ **AWS Academy Graduate:** AWS Academy Cloud Foundations
+* ☁️ **AWS Certified Solutions Architect - Associate:** AWS Certified Solutions Architect
 * 🤖 **IBM Certified:** Generative AI Foundations
 * 💻 **Infosys Certified:** Java Programming Core Foundations
 * 📊 **Deloitte Career Certification:** Data Analytics Virtual Job Simulation Graduate
